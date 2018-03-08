@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pushnotification</string>
+    <string name="PUSH_PREF">chandan.pushnotification.push_pref</string>
+    <string name="PUSH_TOKEN">chandan.pushnotification.push_token</string>
+
+</resources>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "190922865786",
+    "firebase_url": "https://push-notification-194613.firebaseio.com",
+    "project_id": "push-notification-194613",
+    "storage_bucket": "push-notification-194613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190922865786:android:545bb5721f4066bc",
+        "android_client_info": {
+          "package_name": "chandan.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190922865786-7csdqnl3hr7r47m7g2onp87vj10t8p57.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "190922865786-5bjmdvgdsmrhri9527qdefjq070u4rej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAV6F_qsfkJ3_G09CfBj5cZv3eO5imR6Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
